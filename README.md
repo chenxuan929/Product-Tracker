@@ -35,9 +35,6 @@ To build and run the BeautyTracker application, you will need the following soft
 
 ## Installation & Setup
 
-### Clone the Repository:
-- git clone https://github.com/agnesSLu/beautyTracker.git
-
 ### Database Setup:
 
 - Install MySQL Database Server following the instructions on its download page.
